@@ -88,7 +88,7 @@ Gaming : Windows
 Server : Linux
 Kreatif : macOS 
 Kantor : Windows
-Programming : Linux/macOS
+Programming : Linux / macOS
 
 ### Latihan 1.3
 <img width="994" height="408" alt="Screenshot (6).png" src="C:\Users\LENOVO\OneDrive\Pictures\Screenshots" />
