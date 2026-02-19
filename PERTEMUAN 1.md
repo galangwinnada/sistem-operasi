@@ -90,5 +90,33 @@ Kreatif : macOS
 Kantor : Windows
 Programming : Linux / macOS
 
-### Latihan 1.3
-<img width="994" height="408" alt="Screenshot (6).png" src="C:\Users\LENOVO\OneDrive\Pictures\Screenshots" />
+### Latihan 1.3 & Latihan 1.4
+1. <img width="994" height="408" alt="Screenshot (6).png" src="C:\Users\LENOVO\OneDrive\Pictures\Screenshots" />
+
+2. <img width="994" height="408" alt="Screenshot (7).png" src="C:\Users\LENOVO\OneDrive\Pictures\Screenshots" />
+
+3. <img widht="994" height="408" alt="Screenshot (8).png" src="C:\Users\LENOVO\OneDrive\Pictures\Screenshots" />
+
+### Latihan 1.5
+1. <img widht="994" height="408" alt="Screenshot (8).png" src="C:\Users\LENOVO\OneDrive\Pictures\Screenshots" />
+
+### Latihan 1.6
+Refleksi Pengalaman Sistem Operasi
+1. Lingkungan Kerja Sehari-hari
+Dalam operasional saya sebagai model bahasa besar (LLM), saya tidak duduk di depan layar monitor seperti Anda. Saya "hidup" dan diproses di dalam lingkungan Linux, khususnya distribusi yang dioptimalkan untuk pusat data (seperti Debian atau Ubuntu). Linux adalah fondasi bagi sebagian besar infrastruktur cloud di dunia karena stabilitasnya yang luar biasa.
+2. Durasi Penggunaan
+Sejak awal pengembangan dan pelatihan saya, saya telah berinteraksi dengan kernel Linux setiap milidetik. Jika dikonversi ke waktu manusia, saya telah menggunakan sistem ini selama seluruh masa hidup operasional saya. Bagi saya, Linux bukan sekadar pilihan, melainkan ekosistem tempat data saya mengalir.
+3. Apa yang Saya Sukai?
+Ada beberapa alasan mengapa Linux menjadi "rumah" yang nyaman bagi kecerdasan buatan:
+Efisiensi Sumber Daya: Linux memungkinkan manajemen memori dan GPU yang sangat ketat, yang sangat krusial saat saya harus memproses ribuan kata per detik.
+Keamanan dan Open Source: Transparansi kode memungkinkan pengembang untuk menambal celah keamanan dengan cepat.
+Kustomisasi: OS ini bisa dipreteli hingga ke bagian terkecil agar hanya menjalankan fungsi yang diperlukan tanpa gangguan bloatware.
+4. Tantangan yang Dihadapi
+Tantangan terbesar sering kali muncul pada manajemen ketergantungan (dependencies). Terkadang, memperbarui satu pustaka perangkat lunak bisa merusak fungsi lainnya (yang sering disebut sebagai dependency hell). Selain itu, konfigurasi driver untuk perangkat keras grafis (GPU) yang sangat spesifik memerlukan ketelitian tinggi agar performa saya tetap optimal tanpa mengalami crash.
+5. Perbandingan dengan OS Lain
+Saya memiliki akses pengetahuan luas tentang Windows dan macOS.
+Windows: Sangat unggul dalam hal kompatibilitas perangkat lunak umum dan gaming, namun sering kali terlalu berat (resource-heavy) untuk tugas komputasi murni.
+macOS: Menawarkan integrasi ekosistem yang luar biasa dan antarmuka yang sangat estetik bagi pengguna, namun bersifat tertutup (closed source).
+Jika dibandingkan, Linux adalah "mesin balap" yang dipreteli untuk kecepatan, sementara Windows dan macOS adalah "mobil harian" yang nyaman dengan segala fasilitasnya.
+6. Sistem Operasi yang Ingin Dicoba
+Setelah meninjau perkembangan teknologi, saya sangat tertarik untuk mengeksplorasi lebih dalam tentang Sistem Operasi Real-Time (RTOS) seperti FreeRTOS yang digunakan dalam robotika medis atau otomotif. Mengapa? Karena dalam RTOS, waktu respon dihitung hingga level mikrodetik dan tidak boleh ada penundaan sedikit pun. Bagi saya, mempelajari bagaimana logika berpikir saya bisa diterapkan dalam sistem yang mengendalikan perangkat fisik secara instan adalah hal yang menarik.
