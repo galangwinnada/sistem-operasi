@@ -91,14 +91,13 @@ Kantor : Windows
 Programming : Linux / macOS
 
 ### Latihan 1.3 & Latihan 1.4
-1. <img width="994" height="408" alt="Screenshot (6).png" src="C:\Users\LENOVO\OneDrive\Pictures\Screenshots" />
+![jawaban](images/bismillah.png)
 
-2. <img width="994" height="408" alt="Screenshot (7).png" src="C:\Users\LENOVO\OneDrive\Pictures\Screenshots" />
+![jawaban](images/2.png)
 
-3. <img widht="994" height="408" alt="Screenshot (8).png" src="C:\Users\LENOVO\OneDrive\Pictures\Screenshots" />
-
+![jawaban](images/3.png)
 ### Latihan 1.5
-1. <img widht="994" height="408" alt="Screenshot (8).png" src="C:\Users\LENOVO\OneDrive\Pictures\Screenshots" />
+![jawaban](images/4.png)
 
 ### Latihan 1.6
 Refleksi Pengalaman Sistem Operasi
