@@ -7,6 +7,7 @@
 ## PRAKTIKUM 2.1 
 
 ### LATIHAN 2.1 
+![jawaban](images/1.png)
 1. jumlah CPU(S) : 1
    core(S) per socket : 1
    thread(s) per core : 1
@@ -14,6 +15,9 @@
 3. Total wap :2.061
 
 ### LATIHAN 2.2
+![jawaban](images/2.png)
+![jawaban](images/3.png)
+![jawaban](images/4.png)
 1. PERANGKAT PCI : Erhernet controller (0200)
     Vendor : Device ID (8086:001e)
     kernel drives in use : e1000
@@ -34,6 +38,7 @@
         Komatibilitas: karena perangkat sangat standar, driver e1000 biasanya sudah terpasang secara otomaatis di hampit semua distro Linuk dan Windows tanpa perlu instalasi manual
 
 ### LATIHAN 2.3
+![jawaban](images/5.png)
 1. Dalam sistem operasi berbasis Unix/Linux, segala sesuatu dianggap sebagai fi;e, termasuk perangkat keras (hardware). Saat anda menjalankan perintah ls -1 pada direktori /dev, anda akan melihat karakter khusus di kolom pertama izin akses (permissions) yang mebedakan jenis perngkat tersebut.
     # Perbedaan utama antara Block Device dan Character Device
     1. Block device (Penanda b)
@@ -46,10 +51,24 @@
        a.  Akses data: diakses secara sekuensial (beruntun) Data yang masuk pertama harus 
        dibaca pertama kali (seperti aliran air)
         b. Buffering: biasanya tidak menggunakan buffer sistem secara masif karena data bersifat real-time (seperti ketikan keyboaard)
-
+## Praktikum 2.8
+![jawaban](images/6.png)
 ### LATIHAN 2.4
-1. <img width="994" height="408" alt="Screenshot (12).png" src="C:\Users\LENOVO\OneDrive\Pictures\Screenshots" />
-
+![jawaban](images/7.png)
+## Praktikum 2.10
+![jawaban](images/8.png)
+## Praktikum 2.11
+![jawaban](images/9.png)
+## Praktikum 2.12
+![jawaban](images/10.png)
+## Praktikum 2.13
+![jawaban](images/11.png)
+## Praktikum 2.14
+![jawaban](images/12.png)
+## Praktikum 2.15
+![jawaban](images/13.png)
+## Praktiku 2.16
+![jawaban](images/14.png)
 ### LATIHAN 2.5
 1. port : udp
    Process : users: (("system-resolve",pid=521, fd=16))
@@ -61,3 +80,29 @@
     3. LLMNR (Link-Local Multicast Name Resolution): Melalui UDP port 5355, ia memungkinkan komputer dalam jaringan lokal yang sama untuk saling menemukan nama satu sama lain tanpa perlu server DNS pusat (mirip dengan fungsi mDNS/Bonjour).
 
     4. Validasi DNSSEC: Ia dapat memeriksa apakah data DNS yang diterima telah dimanipulasi atau benar-benar asli dari sumbernya.
+### 1.9 LATIHAN
+## Latihan 2.A
+![jawban](images/15.png)
+Nama perangkat : Ethernet controller - Intel Corporation 82540EM Gigabit Ethernet Controller
+ID vendor : device : 8086 : 100e
+kernel drive in use : e1000
+## Latihan 2.B
+Device root filesystem : /dev/mapper
+Tipe filesystem : ext4
+UUID : 3cb500ba-c0e2-4f51-9886-93093ea70fc3
+![jawaban](images/16.png)
+## Latihan 2.C
+![jawaban](images/17.png)
+## Latihan 2.D
+![jawaban](images/18.png)
+## Latihan 2.E
+![jawaban](images/19.png)
+$5 : kolom use
++0 : menghilangkan tanda %
+> 70 : tampilkan lebih dari 70%
+## Latihan 2.F
+![jawaban](images/20.png)
+-15 = SIGTREM
+SiGTREM adalah default signal pada kill
+## Latiham 2.G
+![jawaban](images/21.png)
