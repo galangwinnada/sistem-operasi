@@ -122,4 +122,4 @@ Minimal luaran:
 • refleksi singkat tentang pentingnya quoting di Bash.
 
 ## JAWABAN
-![jawaban](images/9.png)
+![jawaban](images/9.png).
